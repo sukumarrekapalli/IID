@@ -1,4 +1,4 @@
-# Interface.ai Image Downloader
+# Interface Image Downloader
 An application to get the href list, assets list and download all assets in img tag.
 
 # setup
@@ -19,7 +19,7 @@ For a local setup
 
 
 # Scenarios
-1.The application can handles cases like absolute and relative path variations.
+1.The application can handle cases like absolute and relative path variations.
 2.The application can differentiate and filter between internal and external links to only download content from internal links without repetition.
 
 
